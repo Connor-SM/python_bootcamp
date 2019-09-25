@@ -46,11 +46,15 @@ incorporate concepts that readers won’t understand yet. The reason for
 this is to get you to see the power of Python in action, which will create a
 desire to read further.
 </p>
-&lt;p&gt;#### Monday: Introduction
-&lt;p&gt;#### Tuesday: Setting Up Anaconda and Python
-&lt;p&gt;#### Wednesday: How to Use the Terminal
-&lt;p&gt;#### Thursday: Using Jupyter Notebook
-&lt;p&gt;#### Friday: Creating Your First Program
+<p>
+	<ul>
+		<li><b>Monday:</b> <i>Introduction</i></li>
+		<li><b>Tuesday:</b> Setting Up Anaconda and Python</li>
+		<li><b>Wednesday:</b> How to Use the Terminal</li>
+		<li><b>Thursday:</b> Using Jupyter Notebook</li>
+		<li><b>Friday:</b> Creating Your First Program</li>
+	</ul>
+</p>
 
 
 ## Week_02: Python Basics
@@ -64,11 +68,15 @@ prints out the information saved in variables. The most important lesson
 this week will be variables, which will encompass most pages to deeply
 explain why they are important and how they are used.
 </p>
-&lt;p&gt;#### Monday: Comments & Basic Data Types
-&lt;p&gt;#### Tuesday: Variables
-&lt;p&gt;#### Wednesday: Working with Strings
-&lt;p&gt;#### Thursday: String Manipulation
-&lt;p&gt;#### Friday: Creating a Receipt Printing Program
+<p>
+	<ul>
+		<li><b>Monday:</b> Comments & Basic Data Types</li>
+		<li><b>Tuesday:</b> Variables</li>
+		<li><b>Wednesday:</b> Working with Strings</li>
+		<li><b>Thursday:</b> String Manipulation</li>
+		<li><b>Friday:</b> Creating a Receipt Printing Program</li>
+	</ul>
+</p>
 
 
 ## Week_03: User Input and Conditionals
@@ -79,11 +87,15 @@ have the ability to create a working calculator at the end of the week,
 while taking in two numbers and choosing to add, delete, multiply, or
 divide them.
 </p>
-&lt;p&gt;#### Monday: User Input and Type Converting
-&lt;p&gt;#### Tuesday: If Statements
-&lt;p&gt;#### Wednesday: Elif Statements
-&lt;p&gt;#### Thursday: Else Statements
-&lt;p&gt;#### Friday: Creating a Calculator
+<p>
+	<ul>
+		<li><b>Monday:</b> User Input and Type Converting</li>
+		<li><b>Tuesday:</b> If Statements</li>
+		<li><b>Wednesday:</b> Elif Statements</li>
+		<li><b>Thursday:</b> Else Statements</li>
+		<li><b>Friday:</b> Creating a Calculator</li>
+	</ul>
+</p>
 
 
 ## Week_04: Lists and Loops
@@ -96,11 +108,15 @@ concepts it will be covered over two days with two separate types of loops.
 A small working game of Hangman will be created by the end using both
 concepts.
 </p>
-&lt;p&gt;#### Monday: Lists
-&lt;p&gt;#### Tuesday: For Loops
-&lt;p&gt;#### Wednesday: While Loops
-&lt;p&gt;#### Thursday: Working with Lists
-&lt;p&gt;#### Friday: Creating Hangman
+<p>
+	<ul>
+		<li><b>Monday:</b> Lists</li>
+		<li><b>Tuesday:</b> For Loops</li>
+		<li><b>Wednesday:</b> While Loops</li>
+		<li><b>Thursday:</b> Working with Lists</li>
+		<li><b>Friday:</b> Creating Hangman</li>
+	</ul>
+</p>
 
 
 ## Week_05: Functions
@@ -111,11 +127,15 @@ understand why functions are useful, how they are used, and when you
 should use them. We will then create a full working shopping cart in
 Python using functions to add, remove, and show items within the cart.
 </p>
-&lt;p&gt;#### Monday: Creating and Calling Functions
-&lt;p&gt;#### Tuesday: Parameters
-&lt;p&gt;#### Wednesday: Return Statement
-&lt;p&gt;#### Thursday: Scope
-&lt;p&gt;#### Friday: Creating a Shopping Cart
+<p>
+	<ul>
+		<li><b>Monday:</b> Creating and Calling Functions</li>
+		<li><b>Tuesday:</b> Parameters</li>
+		<li><b>Wednesday:</b> Return Statement</li>
+		<li><b>Thursday:</b> Scope</li>
+		<li><b>Friday:</b> Creating a Shopping Cart</li>
+	</ul>
+</p>
 
 
 ## Week_06: Data Collections and Files
@@ -125,11 +145,15 @@ so this week will focus on expanding the reader’s knowledge of data types
 and collections in Python, as well as how to use files. We will program a
 fake database back-end using Python and CSV files together.
 </p>
-&lt;p&gt;#### Monday: Dictionaries
-&lt;p&gt;#### Tuesday: Working with Dictionaries
-&lt;p&gt;#### Wednesday: Tuples, Sets, Frozensets
-&lt;p&gt;#### Thursday: Reading and Writing Files
-&lt;p&gt;#### Friday: Creating a User Database with CSV Files
+<p>
+	<ul>
+		<li><b>Monday:</b> Dictionaries</li>
+		<li><b>Tuesday:</b> Working with Dictionaries</li>
+		<li><b>Wednesday:</b> Tuples, Sets, Frozensets</li>
+		<li><b>Thursday:</b> Reading and Writing Files</li>
+		<li><b>Friday:</b> Creating a User Database with CSV Files</li>
+	</ul>
+</p>
 
 
 ## Week_07: Object-Oriented Programming
@@ -138,11 +162,15 @@ As hard as functions are to understand, OOP with classes is even tougher.
 This full week will cover what OOP is, how and why it is used, and
 eventually go over how to create a full-fledged blackjack game together.
 </p>
-&lt;p&gt;#### Monday: Creating and Instantiating a Class
-&lt;p&gt;#### Tuesday: Attributes
-&lt;p&gt;#### Wednesday: Methods
-&lt;p&gt;#### Thursday: Inheritance
-&lt;p&gt;#### Friday: Creating Blackjack
+<p>
+	<ul>
+		<li><b>Monday:</b> Creating and Instantiating a Class</li>
+		<li><b>Tuesday:</b> Attributes</li>
+		<li><b>Wednesday:</b> Methods</li>
+		<li><b>Thursday:</b> Inheritance</li>
+		<li><b>Friday:</b> Creating Blackjack</li>
+	</ul>
+</p>
 
 
 ## Week_08: Advanced Topics I: Efficiency
@@ -152,11 +180,15 @@ that your everyday developer uses to make their lives easier. The
 understanding of this chapter will help for solidifying the reader’s
 computer science skills.
 </p>
-&lt;p&gt;#### Monday: List Comprehension
-&lt;p&gt;#### Tuesday: Lambda Functions
-&lt;p&gt;#### Wednesday: Map, Filter, and Reduce
-&lt;p&gt;#### Thursday: Recursive Functions and Memoization
-&lt;p&gt;#### Friday: Writing a Binary Search
+<p>
+	<ul>
+		<li><b>Monday:</b> List Comprehension</li>
+		<li><b>Tuesday:</b> Lambda Functions</li>
+		<li><b>Wednesday:</b> Map, Filter, and Reduce</li>
+		<li><b>Thursday:</b> Recursive Functions and Memoization</li>
+		<li><b>Friday:</b> Writing a Binary Search</li>
+	</ul>
+</p>
 
 
 ## Week_09: Advanced Topics II: Complexity
@@ -166,12 +198,15 @@ cover more topics that a developer has to understand on the job. At the end
 of the week several interview tips, questions, and more information will be showcased, 
 as well as how to answer them.
 </p>
-&lt;p&gt;#### Monday: Generators and Iterators
-&lt;p&gt;#### Tuesday: Decorators
-&lt;p&gt;#### Wednesday: Modules
-&lt;p&gt;#### Thursday: Understanding Algorithmic Complexity
-&lt;p&gt;#### Friday: Interview Prep
-
+<p>
+	<ul>
+		<li><b>Monday:</b> Generators and Iterators</li>
+		<li><b>Tuesday:</b> Decorators</li>
+		<li><b>Wednesday:</b> Modules</li>
+		<li><b>Thursday:</b> Understanding Algorithmic Complexity</li>
+		<li><b>Friday:</b> Interview Prep</li>
+	</ul>
+</p>
 
 ## Week_10: Introduction to Data Analysis
 <p>
@@ -180,8 +215,12 @@ introduction into what it takes to be a data analysis. It will cover libraries
 used in the industry, as well as APIs. By the end users will be able to
 understand how to analyze data using Pandas.
 </p>
-&lt;p&gt;#### Monday: Virtual Environments and Requests Module
-&lt;p&gt;#### Tuesday: Pandas
-&lt;p&gt;#### Wednesday: Data Visualization
-&lt;p&gt;#### Thursday: Web Scraping
-&lt;p&gt;#### Friday: Website Analysis
+<p>
+	<ul>
+		<li><b>Monday:</b> Virtual Environments and Requests Module</li>
+		<li><b>Tuesday:</b> Pandas</li>
+		<li><b>Wednesday:</b> Data Visualization</li>
+		<li><b>Thursday:</b> Web Scraping</li>
+		<li><b>Friday:</b> Website Analysis</li>
+	</ul>
+</p>
