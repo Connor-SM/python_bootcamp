@@ -46,7 +46,7 @@ incorporate concepts that readers won’t understand yet. The reason for
 this is to get you to see the power of Python in action, which will create a
 desire to read further.
 </p>
-&lt;p&gt;#### Monday: Introduction
+&lt;#### Monday: Introduction
 &lt;p&gt;#### Tuesday: Setting Up Anaconda and Python
 &lt;p&gt;#### Wednesday: How to Use the Terminal
 &lt;p&gt;#### Thursday: Using Jupyter Notebook
